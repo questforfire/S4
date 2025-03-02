@@ -6,3 +6,10 @@
 [Site](https://sites.google.com/view/vijayk/teaching?authuser=0)
 # Book
 [Google Drive Link](https://drive.google.com/file/d/1ojoOhsnKyVu1jaoOOWjGfsVkU4F1_qXU/view)
+
+# Video Lectures
+[Harish Garg](https://www.youtube.com/playlist?list=PLH26lU5qzmkukNaoBLnHudkOkdFMOMtTM)
+
+[Maths For All](https://www.youtube.com/playlist?list=PLUnrYe_C6P_qKZk123v7rFa-ary_yy49V)
+
+[Sandeep Kumar Singh](https://youtube.com/playlist?list=PLe4bSgoh2qPACC6NpcRgNCgaJrpiNuJ4z)
